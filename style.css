@@ -232,7 +232,7 @@ body label.menu h3 {
   letter-spacing: 2px;
 }
 body label.menu h2 {
-  font-size: 11px;
+  font-size: 14px;
   opacity: 0.4;
   margin-bottom: 4px;
 }
@@ -247,7 +247,7 @@ body label.menu h2 .pip {
   margin-right: 0px;
 }
 body label.menu h3 {
-  font-size: 8px;
+  font-size: 10px;
   letter-spacing: 1px;
   transition: all 0.3s;
   opacity: 0.3;
